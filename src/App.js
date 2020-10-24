@@ -1,8 +1,12 @@
 import React, { useState } from "react";
+import { useEffect } from "react";
 import "./App.css";
 import images from "./images";
 
 const Carousel = ({ images }) => {
+  useEffect(() => {
+    document.title = "Menu Carousel";
+  }, [null]);
   const [selectedImage, setSelectedImage] = useState("");
 
   const toggleElem = (name) => {
