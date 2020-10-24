@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff266709.chunk.css",
-    "main.js": "/static/js/main.8ff988e9.chunk.js",
-    "main.js.map": "/static/js/main.8ff988e9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3f551146.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3f551146.js.map",
-    "static/css/2.0b77bc90.chunk.css": "/static/css/2.0b77bc90.chunk.css",
-    "static/js/2.c60243e2.chunk.js": "/static/js/2.c60243e2.chunk.js",
-    "static/js/2.c60243e2.chunk.js.map": "/static/js/2.c60243e2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a444a2e62a66443fb64cb1afdc2be193.js": "/precache-manifest.a444a2e62a66443fb64cb1afdc2be193.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.0b77bc90.chunk.css.map": "/static/css/2.0b77bc90.chunk.css.map",
-    "static/css/main.ff266709.chunk.css.map": "/static/css/main.ff266709.chunk.css.map",
-    "static/js/2.c60243e2.chunk.js.LICENSE.txt": "/static/js/2.c60243e2.chunk.js.LICENSE.txt"
+    "main.css": "/ShlokD/menu-carousel.git/static/css/main.ff266709.chunk.css",
+    "main.js": "/ShlokD/menu-carousel.git/static/js/main.5d938846.chunk.js",
+    "main.js.map": "/ShlokD/menu-carousel.git/static/js/main.5d938846.chunk.js.map",
+    "runtime-main.js": "/ShlokD/menu-carousel.git/static/js/runtime-main.fd92b121.js",
+    "runtime-main.js.map": "/ShlokD/menu-carousel.git/static/js/runtime-main.fd92b121.js.map",
+    "static/css/2.0b77bc90.chunk.css": "/ShlokD/menu-carousel.git/static/css/2.0b77bc90.chunk.css",
+    "static/js/2.c60243e2.chunk.js": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js",
+    "static/js/2.c60243e2.chunk.js.map": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js.map",
+    "index.html": "/ShlokD/menu-carousel.git/index.html",
+    "precache-manifest.d95be0c162562d3526e0067b0affb5b9.js": "/ShlokD/menu-carousel.git/precache-manifest.d95be0c162562d3526e0067b0affb5b9.js",
+    "service-worker.js": "/ShlokD/menu-carousel.git/service-worker.js",
+    "static/css/2.0b77bc90.chunk.css.map": "/ShlokD/menu-carousel.git/static/css/2.0b77bc90.chunk.css.map",
+    "static/css/main.ff266709.chunk.css.map": "/ShlokD/menu-carousel.git/static/css/main.ff266709.chunk.css.map",
+    "static/js/2.c60243e2.chunk.js.LICENSE.txt": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f551146.js",
+    "static/js/runtime-main.fd92b121.js",
     "static/css/2.0b77bc90.chunk.css",
     "static/js/2.c60243e2.chunk.js",
     "static/css/main.ff266709.chunk.css",
-    "static/js/main.8ff988e9.chunk.js"
+    "static/js/main.5d938846.chunk.js"
   ]
 }
