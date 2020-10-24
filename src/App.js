@@ -6,7 +6,7 @@ import images from "./images";
 const Carousel = ({ images }) => {
   useEffect(() => {
     document.title = "Menu Carousel";
-  }, [null]);
+  });
   const [selectedImage, setSelectedImage] = useState("");
 
   const toggleElem = (name) => {
@@ -16,7 +16,7 @@ const Carousel = ({ images }) => {
   const showElem = (name) => {
     const elemId = `carousel-item-${name}`;
     const elem = document.getElementById(elemId);
-    elem.scrollIntoView({ behaviour: "smooth", block: "center" });
+    elem.scrollIntoView({ behavior: "smooth", block: "center" });
   };
 
   return (
