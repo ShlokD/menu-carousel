@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ShlokD/menu-carousel.git/static/css/main.ff266709.chunk.css",
-    "main.js": "/ShlokD/menu-carousel.git/static/js/main.5d938846.chunk.js",
-    "main.js.map": "/ShlokD/menu-carousel.git/static/js/main.5d938846.chunk.js.map",
-    "runtime-main.js": "/ShlokD/menu-carousel.git/static/js/runtime-main.fd92b121.js",
-    "runtime-main.js.map": "/ShlokD/menu-carousel.git/static/js/runtime-main.fd92b121.js.map",
-    "static/css/2.0b77bc90.chunk.css": "/ShlokD/menu-carousel.git/static/css/2.0b77bc90.chunk.css",
-    "static/js/2.c60243e2.chunk.js": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js",
-    "static/js/2.c60243e2.chunk.js.map": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js.map",
-    "index.html": "/ShlokD/menu-carousel.git/index.html",
-    "precache-manifest.d95be0c162562d3526e0067b0affb5b9.js": "/ShlokD/menu-carousel.git/precache-manifest.d95be0c162562d3526e0067b0affb5b9.js",
-    "service-worker.js": "/ShlokD/menu-carousel.git/service-worker.js",
-    "static/css/2.0b77bc90.chunk.css.map": "/ShlokD/menu-carousel.git/static/css/2.0b77bc90.chunk.css.map",
-    "static/css/main.ff266709.chunk.css.map": "/ShlokD/menu-carousel.git/static/css/main.ff266709.chunk.css.map",
-    "static/js/2.c60243e2.chunk.js.LICENSE.txt": "/ShlokD/menu-carousel.git/static/js/2.c60243e2.chunk.js.LICENSE.txt"
+    "main.css": "/menu-carousel/static/css/main.ff266709.chunk.css",
+    "main.js": "/menu-carousel/static/js/main.37ce491b.chunk.js",
+    "main.js.map": "/menu-carousel/static/js/main.37ce491b.chunk.js.map",
+    "runtime-main.js": "/menu-carousel/static/js/runtime-main.d6a93772.js",
+    "runtime-main.js.map": "/menu-carousel/static/js/runtime-main.d6a93772.js.map",
+    "static/css/2.0b77bc90.chunk.css": "/menu-carousel/static/css/2.0b77bc90.chunk.css",
+    "static/js/2.c60243e2.chunk.js": "/menu-carousel/static/js/2.c60243e2.chunk.js",
+    "static/js/2.c60243e2.chunk.js.map": "/menu-carousel/static/js/2.c60243e2.chunk.js.map",
+    "index.html": "/menu-carousel/index.html",
+    "precache-manifest.b37b322abefdeee2de0332c7e2d95a99.js": "/menu-carousel/precache-manifest.b37b322abefdeee2de0332c7e2d95a99.js",
+    "service-worker.js": "/menu-carousel/service-worker.js",
+    "static/css/2.0b77bc90.chunk.css.map": "/menu-carousel/static/css/2.0b77bc90.chunk.css.map",
+    "static/css/main.ff266709.chunk.css.map": "/menu-carousel/static/css/main.ff266709.chunk.css.map",
+    "static/js/2.c60243e2.chunk.js.LICENSE.txt": "/menu-carousel/static/js/2.c60243e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd92b121.js",
+    "static/js/runtime-main.d6a93772.js",
     "static/css/2.0b77bc90.chunk.css",
     "static/js/2.c60243e2.chunk.js",
     "static/css/main.ff266709.chunk.css",
-    "static/js/main.5d938846.chunk.js"
+    "static/js/main.37ce491b.chunk.js"
   ]
 }
