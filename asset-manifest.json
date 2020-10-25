@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/menu-carousel/static/css/main.ff266709.chunk.css",
-    "main.js": "/menu-carousel/static/js/main.9cb8776d.chunk.js",
-    "main.js.map": "/menu-carousel/static/js/main.9cb8776d.chunk.js.map",
+    "main.css": "/menu-carousel/static/css/main.8975cac8.chunk.css",
+    "main.js": "/menu-carousel/static/js/main.6112a58f.chunk.js",
+    "main.js.map": "/menu-carousel/static/js/main.6112a58f.chunk.js.map",
     "runtime-main.js": "/menu-carousel/static/js/runtime-main.d6a93772.js",
     "runtime-main.js.map": "/menu-carousel/static/js/runtime-main.d6a93772.js.map",
     "static/css/2.0b77bc90.chunk.css": "/menu-carousel/static/css/2.0b77bc90.chunk.css",
     "static/js/2.c60243e2.chunk.js": "/menu-carousel/static/js/2.c60243e2.chunk.js",
     "static/js/2.c60243e2.chunk.js.map": "/menu-carousel/static/js/2.c60243e2.chunk.js.map",
     "index.html": "/menu-carousel/index.html",
-    "precache-manifest.589fc365cfb764717035ff2ff4d01af0.js": "/menu-carousel/precache-manifest.589fc365cfb764717035ff2ff4d01af0.js",
+    "precache-manifest.96a2e21c6c04e74ea36123627b9201df.js": "/menu-carousel/precache-manifest.96a2e21c6c04e74ea36123627b9201df.js",
     "service-worker.js": "/menu-carousel/service-worker.js",
     "static/css/2.0b77bc90.chunk.css.map": "/menu-carousel/static/css/2.0b77bc90.chunk.css.map",
-    "static/css/main.ff266709.chunk.css.map": "/menu-carousel/static/css/main.ff266709.chunk.css.map",
+    "static/css/main.8975cac8.chunk.css.map": "/menu-carousel/static/css/main.8975cac8.chunk.css.map",
     "static/js/2.c60243e2.chunk.js.LICENSE.txt": "/menu-carousel/static/js/2.c60243e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6a93772.js",
     "static/css/2.0b77bc90.chunk.css",
     "static/js/2.c60243e2.chunk.js",
-    "static/css/main.ff266709.chunk.css",
-    "static/js/main.9cb8776d.chunk.js"
+    "static/css/main.8975cac8.chunk.css",
+    "static/js/main.6112a58f.chunk.js"
   ]
 }
