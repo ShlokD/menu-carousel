@@ -23,23 +23,27 @@ const Carousel = ({ images }) => {
     <div class="flex">
       <div className="w-75 flex flex-column items-center">
         {images.map((image, index) => {
+          const selected = selectedImage === image.name;
           return (
-            <img
-              key={`carousel-item-${index}`}
-              alt={image.name}
-              id={`carousel-item-${image.name}`}
-              className="ma4 pa4 h-75 w-80 shadow-2"
-              src={image.src}
-              height="75%"
-              width="80%"
-              style={{
-                transform: `rotateX(${
-                  selectedImage === image.name ? "0deg" : "45deg"
-                })`,
-                transition: "transform 0.5s ease-in-out",
-                perspective: "800px",
-              }}
-            ></img>
+            <div className="flex items-center">
+              {selected && <p>{image.description}</p>}
+              <img
+                key={`carousel-item-${index}`}
+                alt={image.name}
+                id={`carousel-item-${image.name}`}
+                className="mv5 pa4 shadow-2"
+                src={image.src}
+                height="75%"
+                width="80%"
+                style={{
+                  transform: `rotateX(${selected ? "18deg" : "0deg"}) rotateY(${
+                    selected ? "45deg" : "0deg"
+                  }) translate(${selected ? "120px" : "0px"})`,
+                  transition: "transform 0.5s ease-in-out",
+                  perspective: "800px",
+                }}
+              ></img>
+            </div>
           );
         })}
       </div>
@@ -71,7 +75,7 @@ const Carousel = ({ images }) => {
 
 function App() {
   return (
-    <div className="App">
+    <div className="App pa4">
       <Carousel images={images} />
     </div>
   );
